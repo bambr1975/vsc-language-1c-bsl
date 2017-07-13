@@ -230,7 +230,7 @@
     "should": "^11.2.0",
     "tslint": "^5.0.0",
     "typescript": "^2.2.1",
-    "vscode": "^1.0.3"
+    "vscode": "^1.1.4"
   },
   "dependencies": {
     "cross-spawn": "^5.0.1",
