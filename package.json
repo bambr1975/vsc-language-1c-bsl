@@ -240,7 +240,7 @@
     "iconv-lite": "^0.4.15",
     "lokijs": "^1.4.2",
     "onec-syntaxparser": "0.1.9",
-    "xml2js": "^0.4.17",
+    "xml2js": "0.4.17",
     "alignment": "0.0.1"
   }
 }
