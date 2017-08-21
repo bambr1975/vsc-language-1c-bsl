@@ -220,7 +220,7 @@
   "devDependencies": {
     "@types/fs-promise": "^1.0.1",
     "@types/glob": "^5.0.30",
-    "@types/mocha": "^2.2.40",
+    "@types/mocha": "2.2.41",
     "@types/node": "^7.0.32",
     "@types/should": "^8.1.30",
     "cross-env": "^5.0.0",
